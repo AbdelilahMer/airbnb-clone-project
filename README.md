@@ -105,4 +105,44 @@ Each role is essential for the project’s success:
 
 Together, these roles create a collaborative workflow that ensures on-time delivery, high performance, and user satisfaction.
 
+## UI Component Patterns
+
+To ensure consistency, reusability, and scalability in the user interface, the project will follow a component-based design approach. Below are the key UI components that will be implemented:
+
+### 1. Navbar
+- **Description**: A responsive navigation bar that provides quick access to the main sections of the application.  
+- **Features**:  
+  - Logo and branding.  
+  - Search bar for properties.  
+  - Navigation links (Home, Listings, Favorites, Profile, etc.).  
+  - User authentication actions (Login/Signup, Logout).  
+  - Mobile-friendly dropdown menu.  
+
+### 2. Property Card
+- **Description**: A reusable card component to display individual property details.  
+- **Features**:  
+  - Property image carousel or thumbnail.  
+  - Title and location of the property.  
+  - Price per night.  
+  - Rating and reviews.  
+  - Call-to-action buttons (e.g., “View Details,” “Book Now”).  
+  - Responsive layout for grid and list views.  
+
+### 3. Footer
+- **Description**: A footer section appearing at the bottom of the website to provide supporting navigation and information.  
+- **Features**:  
+  - Links to important pages (About, Contact, Terms & Privacy, Help).  
+  - Social media icons and links.  
+  - Copyright notice.  
+  - Contact information or newsletter signup.  
+
+### 4. Additional Planned Components
+- **Search/Filter Panel** – Allow users to filter listings by price, location, date, and amenities.  
+- **Booking Form** – Collect user booking information such as dates, guests, and payment details.  
+- **User Profile Dropdown** – Show user details, bookings, and settings.  
+- **Pagination/Infinite Scroll** – Navigate property listings efficiently.  
+
+---
+
+These UI component patterns will form the foundation of the application’s design system, making it easier to maintain consistency and improve user experience across the platform.
 
